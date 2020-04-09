@@ -21,12 +21,18 @@ select any icons as you want.
 
 Good luck!
 
+>>> Please test this file before you do a prank <<<
 
 DLL files
 * * * * * *
 axInterop.WMPLib.dll
 Interop.WMPLib.dll
 CoreAudioApi.dll
+
+Requirements
+* * * * * * *
+Newer Windows operating systems (Vista, 7, 8.1, 10)
+Microsoft .NET Framework 4.x
 
 
 Credits
