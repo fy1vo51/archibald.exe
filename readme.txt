@@ -1,7 +1,7 @@
 Please read carefully before you run archibald.exe
 * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-This file will freeze and shutting down your computer if you opened,
+This file may crashed and triggered a Blue Screen of Death to your computer if you opened,
 but it will just be fine if you restart it.
 Be aware about the sound volume, it may set automatically while you open the file.
 
@@ -21,6 +21,14 @@ select any icons as you want.
 
 Good luck!
 
+If you want to do a prank without any computers got crashed,
+add an command line -nocrash on target field of the properties box (Shortcuts only)
+or you can create a batch file (.bat) and write the following
+line: archibald -nocrash then create a shortcut to the desktop
+and change icon and name.
+Don't forget to add @echo off at the first line
+that people won't see the line on the Command Prompt!
+
 >>> Please test this file before you do a prank <<<
 
 DLL files
@@ -28,6 +36,11 @@ DLL files
 axInterop.WMPLib.dll
 Interop.WMPLib.dll
 CoreAudioApi.dll
+
+Update April 15, 2020
+* * * * * * * * * * * *
+Added command line argument: -nocrash (Without BSOD)
+
 
 Requirements
 * * * * * * *
