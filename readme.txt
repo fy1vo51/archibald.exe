@@ -29,6 +29,7 @@ and change icon and name.
 Don't forget to add @echo off at the first line
 that people won't see the line on the Command Prompt!
 
+
 >>> Please test this file before you do a prank <<<
 
 DLL files
@@ -37,9 +38,9 @@ axInterop.WMPLib.dll
 Interop.WMPLib.dll
 CoreAudioApi.dll
 
-Update April 15, 2020
+Update May 2, 2020
 * * * * * * * * * * * *
-Added command line argument: -nocrash (Without BSOD)
+Added command line argument: -horrormode (WARNING: May contain ear rape audio and scary image)
 
 
 Requirements
