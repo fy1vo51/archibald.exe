@@ -42,6 +42,10 @@ Update May 2, 2020
 * * * * * * * * * * * *
 Added command line argument: -horrormode (WARNING: May contain ear rape audio and scary image)
 
+Notice: You need to insert this command line before the -nocrash line
+
+e.g: archibald.exe -horrormode -nocrash
+
 
 Requirements
 * * * * * * *
