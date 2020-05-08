@@ -38,14 +38,12 @@ axInterop.WMPLib.dll
 Interop.WMPLib.dll
 CoreAudioApi.dll
 
-Update May 2, 2020
+Update May 8, 2020
 * * * * * * * * * * * *
-Added command line argument: -horrormode (WARNING: May contain ear rape audio and scary image)
+Added command line argument: -stpwork
 
-Notice: You need to insert this command line before the -nocrash line
-
-e.g: archibald.exe -horrormode -nocrash
-
+This will show "archibald.exe has stopped working" message while you opened this file.
+Might be replace -nocrash command
 
 Requirements
 * * * * * * *
